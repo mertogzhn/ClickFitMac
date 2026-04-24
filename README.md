@@ -8,7 +8,7 @@ Download the latest `.dmg` from the [Releases](https://github.com/mertogzhn/Clic
 
 ## Requirements
 
-- macOS 14 (Sonoma) or later
+- macOS 15 (Sequoia) or later
 - Accessibility permission (granted at first launch via System Settings → Privacy & Security → Accessibility)
 
 ## Features
