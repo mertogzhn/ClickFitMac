@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://clickfitapp.com/images/screenshots/dark.jpg" alt="ClickFit in action" width="100%" />
+  <img src="https://clickfitapp.com/images/screenshots/dark.jpg?v=3" alt="ClickFit in action" width="100%" />
 </p>
 
 ## About
