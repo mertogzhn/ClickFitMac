@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-15%20Sequoia%2B-black?logo=apple" alt="macOS 15+" />
-  <img src="https://img.shields.io/badge/Apple%20Silicon%20%26%20Intel-Universal-green" alt="Universal Binary" />
+  <img src="https://img.shields.io/badge/Apple%20Silicon-supported-green" alt="Apple Silicon" />
   <img src="https://img.shields.io/badge/Built%20with-Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
 </p>
 
@@ -42,7 +42,7 @@ ClickFit also updates itself automatically. New releases are delivered via Spark
 ## Requirements
 
 - macOS 15 Sequoia or later
-- Apple Silicon or Intel Mac (Universal binary)
+- Apple Silicon Mac (M1 or later)
 - Accessibility permission (required at runtime — never collected or sent anywhere)
 
 ## Features
