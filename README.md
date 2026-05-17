@@ -93,7 +93,7 @@ License management lives in **Settings → License** inside the app.
 
 - **Bugs and feature requests:** [Issues](https://github.com/mertogzhn/ClickFitMac/issues)
 - **Release notes:** [clickfitapp.com/release-notes](https://clickfitapp.com/release-notes)
-- **Email:** mert.oguzhanasilturk@gmail.com
+- **Email:** mert@clickfitapp.com
 
 ## Privacy
 
