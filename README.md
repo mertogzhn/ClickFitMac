@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-15%20Sequoia%2B-black?logo=apple" alt="macOS 15+" />
+  <img src="https://img.shields.io/badge/macOS-14%20Sonoma%2B-black?logo=apple" alt="macOS 14+" />
   <img src="https://img.shields.io/badge/Apple%20Silicon-supported-green" alt="Apple Silicon" />
   <img src="https://img.shields.io/badge/Built%20with-Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
 </p>
@@ -41,7 +41,7 @@ ClickFit also updates itself automatically. New releases are delivered via Spark
 
 ## Requirements
 
-- macOS 15 Sequoia or later
+- macOS 14 Sonoma or later
 - Apple Silicon Mac (M1 or later)
 - Accessibility permission (required at runtime — never collected or sent anywhere)
 
@@ -57,7 +57,7 @@ Windows snap to screen edges, neighboring window borders, and grid positions. Vi
 Grab the shared edge between two adjacent windows and resize them together in perfect sync. ClickFit's coupling engine works with both its own gestures and macOS native corner-drag resize, even on Chrome and Electron apps.
 
 ### Tile Zones
-Throw a window toward any edge or corner to tile it into halves, quarters, thirds, fourths, sixths, or full-screen. Adaptive tiling adjusts boundaries based on already-anchored neighbors so layouts stay tight.
+Throw a window toward any edge or corner to tile it into halves, quarters, thirds, fourths, sixths, ninths, or full-screen. Every cell of a 3×3 grid is reachable, along with the four 2×2 corner blocks and the full-width top, middle and bottom bands. Adaptive tiling adjusts boundaries based on already-anchored neighbors so layouts stay tight.
 
 ### Layouts
 20+ built-in multi-window layouts — columns, rows, grids, focus arrangements, and split ratios — plus a full-screen drawing editor for your own custom layouts. Apply any layout instantly via hotkey or the radial picker.
@@ -76,6 +76,12 @@ Capture a snapshot of every open window — apps, frames, displays, and tab grou
 
 ### Keyboard Shortcuts
 Every action is bindable to a global hotkey: tiling, centering, maximizing, raising, layout switching, workspace recall, cross-display moves, and more.
+
+### Trackpad Gestures
+Bind a three-finger or four-finger downward swipe to any action, and trigger throw-to-zone or the radial picker with a tap — without lifting your hand off the trackpad.
+
+### Menu Bar Menu
+Right-click the menu bar icon for a native menu: toggle ClickFit, run a window action, apply a favorite layout, or restore a workspace without opening the panel. Minimize All Windows and Hide All Apps clear the display you're on, and running either again restores what it changed.
 
 ### Multi-Display & Spaces
 Move windows across monitors and macOS Spaces with a single shortcut. ClickFit understands mixed-resolution and mixed-DPI setups.
